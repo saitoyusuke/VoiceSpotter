@@ -1,4 +1,4 @@
-package jp.simhubdash.voicespotter.ui.theme
+package jp.simhubdash.racing.ui
 
 import androidx.compose.ui.graphics.Color
 

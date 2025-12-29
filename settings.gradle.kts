@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "SpotterVoice"
 include(":app")
+include(":feature:racing")
  

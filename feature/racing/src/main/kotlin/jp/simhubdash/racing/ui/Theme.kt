@@ -1,6 +1,5 @@
-package jp.simhubdash.voicespotter.ui.theme
+package jp.simhubdash.racing.ui
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
